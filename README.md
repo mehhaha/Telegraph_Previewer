@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Run
 
-Put your bot token and telegraph api token in `token.py` (**add this file to .gitignore** after doing so), and then
+Put your bot token and telegraph api token in `tokens.py` (**add this file to .gitignore** after doing so), and then
 
 ```bash
 python3.9 bot.py
