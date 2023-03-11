@@ -1,0 +1,4 @@
+python-telegram-bot
+tenacity
+beautifulsoup4 >= 4.11.2
+lxml
