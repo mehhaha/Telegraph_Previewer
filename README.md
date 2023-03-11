@@ -17,7 +17,7 @@ Put your bot token and telegraph api token in `token.py` (**add this file to .gi
 python3.9 bot.py
 ```
 
-Python 3.9 is recommended. The dependent `lxml` is buggy for Python 3.10+.
+Python 3.9 is recommended. The dependent `lxml` is [buggy](https://bugs.launchpad.net/lxml/+bug/1949271) for Python 3.10+.
 
 **Note**: If you want to use this in a group, talk to [@botfather](https://t.me/botfather) on telegram to **turn off** group privacy mode.
 
