@@ -63,8 +63,8 @@ Please make sure to update tests as appropriate.
 
 ## Credits
 
-- The file `utils/clean_html.py` is adopted from [mercuree/html-telegraph-poster](https://github.com/mercuree/html-telegraph-poster/blob/master/html_telegraph_poster/converter.py).
-- The file `utils/html_to_nodes.py` is adopted from [python273/telegraph](https://github.com/python273/telegraph/blob/master/telegraph/utils.py)
+- The file `utils/clean_html.py` is adapted from [mercuree/html-telegraph-poster](https://github.com/mercuree/html-telegraph-poster/blob/master/html_telegraph_poster/converter.py).
+- The file `utils/html_to_nodes.py` is adapted from [python273/telegraph](https://github.com/python273/telegraph/blob/master/telegraph/utils.py)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
